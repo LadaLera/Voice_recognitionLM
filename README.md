@@ -23,6 +23,12 @@ pip install pyaudio,
 pip install scikit-learn, 
 pip install numpy
 
+JEB
+
+pip install -r requirements.txt
+
+
+
 Sistēmas Arhitektūra:
 1. LIETOTĀJA SASKARNE
  • Galvenais izvēlnes ekrāns
