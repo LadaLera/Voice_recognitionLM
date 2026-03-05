@@ -3,8 +3,8 @@ ZPD tēma: "ANGĻU VALODAS DIALEKTU UN AKCENTU ATPAZĪŠANAS PROGRAMMAS IZSTRĀD
 Šī programma ir izstrādāta, lai atpazītu dažādus angļu valodas dialektus un akcentus, izmantojot XGBoost mašīnmācīšanās modeli. Programma tika trenēta ar 18,406 audio paraugiem no 25 dažādiem angļu valodas akcentiem un sasniedza 88,6% precizitāti TOP 3 klasifikācijā reālā laika režīmā.
 
 Nepieciešamie Faili:
-1. main_claude.py
-2. accent_detector_claude.py
+1. main.py
+2. accent_detector.py
 3. trained_accent_model_stable.pkl
 
 Instalācija
