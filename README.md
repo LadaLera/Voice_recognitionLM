@@ -5,8 +5,7 @@ ZPD tēma: "ANGĻU VALODAS DIALEKTU UN AKCENTU ATPAZĪŠANAS PROGRAMMAS IZSTRĀD
 Nepieciešamie Faili:
 1. main_claude.py
 2. accent_detector_claude.py
-3. translator_mode_claude.py
-4. trained_accent_model_stable.pkl
+3. trained_accent_model_stable.pkl
 
 Instalācija
 1. Prasības:
